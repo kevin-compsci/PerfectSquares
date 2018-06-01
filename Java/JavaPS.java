@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Basic Java program to find nearest perfect squares.
+Basic Java program to find nearest perfect squares. O(n) performance.
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
@@ -14,8 +14,6 @@ import java.util.*;
 
 //class
 class JavaPS {
-	//Global Declarations
-
 	//main driver
 	public static void main(String[] args) {
 		//local Declarations
